@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.active {
+    background: rgb(100 100 50 / 12%);
+    box-shadow: inset 100 100 0.25em 0 rgba(0, 0, 0, 0.125);
+    color: #fff; }
+    #nav ul li a.active span::before {
+        color: #e20209; }
+
+        /* e27689 */

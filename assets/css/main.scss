@@ -1,0 +1,82 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@import "jekyll-theme-prologue";
+
+// /* Header */
+
+// header top logo {
+//     /* color: #888; */
+//     color: #736a6a;
+//     background: #736a6a;
+// }
+
+//     #nav ul li a.active {
+//         /* background: #1C2022;
+//         */
+//         background: #6e5f5f;
+//     }
+
+// #headerToggle .toggle {
+//     background-color: #888;
+// }
+
+//         #nav ul li a {
+//             /* color: #888; */
+//             color: #e4eaed;
+//             background: #686868;
+//         }
+
+//             #nav ul li a.active {
+//                 /* background: #1C2022;
+//                 */
+//                 // color: #808080;
+//                 background: #808080;
+//             }
+
+//         #headerToggle .toggle {
+//             background-color: #888;
+//         }
+    
+
+// #nav ul a {
+//     /* color: #888; */
+//     color: #e4eaed;
+//     background: #808080;
+// }
+
+//     #nav ul li a.active {
+//         /* background: #1C2022;
+//         */
+//         // color: #808080;
+//         background: #808080;
+//     }
+
+// #headerToggle .toggle {
+//     background-color: #888;
+// }
+
+table {
+    padding: 0; }
+    table tr {
+      border-top: 1px solid #cccccc;
+      background-color: white;
+      margin: 0;
+      padding: 0; }
+      table tr:nth-child(2n) {
+        background-color: #f8f8f8; }
+        table tr th {
+        font-weight: bold;
+        border: 1px solid #cccccc;
+        text-align: left;
+        margin: 0;
+        padding: 6px 13px; }
+      table tr td {
+        border: 1px solid #cccccc;
+        text-align: left;
+        margin: 0;
+        padding: 6px 13px; }
+      table tr th :first-child, table tr td :first-child {
+        margin-top: 0; }
+      table tr th :last-child, table tr td :last-child {
+  margin-bottom: 0; }
