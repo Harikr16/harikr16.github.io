@@ -8,7 +8,7 @@ permalink: /projects/lesion_detection/
 ---
 
 <div  style="font-size: large; color:grey">
-    <p>#Deep-Learning #Computer_Vision #Image_Segmentation</p>
+    <p>#Deep-Learning &emsp;&emsp;#Computer Vision&emsp;&emsp; #Image Segmentation</p>
 </div>
 
 <div>

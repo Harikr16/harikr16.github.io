@@ -1,6 +1,6 @@
 ---
 title: Work Experience
-icon: fa-check
+icon: fa-briefcase
 order: 4
 ---
 

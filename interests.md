@@ -1,8 +1,9 @@
 ---
 title: Interests
-subtitle: Glance of 'real' me
+subtitle: A glance to my non-professional life
 layout: "page"
-icon: fa-book
+icon: fa-heart 
+icon-style: solid
 order: 4
 permalink: interests
 ---
@@ -20,7 +21,7 @@ permalink: interests
     </div> 
     <div class="5u 12u$(mobile)">
       <div class="item" >
-        <a href="#" class="image fit"><img src="{{ 'assets/images/IMG20221214173647-02.jpeg' | relative_url }}" alt="Hot Topics in Machine Learning" /></a>
+        <a href="#" class="image fit"><img style = "border:10px solid #555;" src="{{ 'assets/images/IMG20221214173647-02.jpeg' | relative_url }}" alt="Hot Topics in Machine Learning" /></a>
         <header>
           <h3>LinkedIN Evening!</h3>
         </header>
@@ -32,7 +33,7 @@ permalink: interests
     </div>
     <div class="5u 12u$(mobile)">
       <div class="item" >
-        <a href="#" class="image fit"><img src="{{ 'assets/images/IMG_20221230225904_IMG_2680-02.jpeg' | relative_url }}" alt="Project 11" /></a>
+        <a href="#" class="image fit"><img style = "border:10px solid #555;"  src="{{ 'assets/images/IMG_20221230225904_IMG_2680-02.jpeg' | relative_url }}" alt="Project 11" /></a>
         <header>
           <h3>Fall!</h3>
         </header>
@@ -47,7 +48,7 @@ permalink: interests
     </div> 
     <div class="5u 12u$(mobile)">
       <div class="item" >
-        <a href="#" class="image fit"><img src="{{ 'assets/images/IMG_20221229045710_IMG_2426-02-02.jpeg' | relative_url }}" alt="" /></a>
+        <a href="#" class="image fit"><img style = "border:10px solid #555;"   src="{{ 'assets/images/IMG_20221229045710_IMG_2426-02-02.jpeg' | relative_url }}" alt="" /></a>
         <header>
           <h3>San Antonio</h3>
         </header>
@@ -59,7 +60,7 @@ permalink: interests
     </div>
     <div class="5u 12u$(mobile)">
       <div class="item" >
-        <a href="#" class="image fit"><img src="{{ 'assets/images/IMG_20221230224123_IMG_2650-02.jpeg' | relative_url }}" alt="Project 11" style="margin-top: 100px;"></a>
+        <a href="#" class="image fit"><img  style = "border: 10px solid #555;"  src="{{ 'assets/images/IMG_20221230224123_IMG_2650-02.jpeg' | relative_url }}" alt="Project 11" style="margin-top: 100px;"></a>
         <header>
           <h3>Where is my Human?</h3>
         </header>
@@ -89,7 +90,7 @@ permalink: interests
       <div class="item" >
         <!-- <a href="#" class="image fit"><img src="{{ 'assets/images/IMG_travel_IMG_2120-01.jpeg' | relative_url }}" 
         alt="Hot Topics in Machine Learning" /></a> -->
-        <a href="#" class="image fit"><img src="{{ 'assets/images/IMG_travel_IMG_2120-01.jpeg' | relative_url }}" 
+        <a href="#" class="image fit"><img  style = "border: 10px solid #555;"   src="{{ 'assets/images/IMG_travel_IMG_2120-01.jpeg' | relative_url }}" 
         alt="Hot Topics in Machine Learning" /></a>
         <header>
           <h3>Solo road trip</h3>
@@ -98,7 +99,7 @@ permalink: interests
       <div class="item" >
         <!-- <a href="#" class="image fit"><img src="{{ 'assets/images/IMG_travel_IMG_2120-01.jpeg' | relative_url }}" 
         alt="Hot Topics in Machine Learning" /></a> -->
-        <a href="#" class="image fit"><img src="{{ 'assets/images/IMG_travel_Screenshot_20210330_144630_com.huawei.himovie.overseas-01.jpeg' | relative_url }}" 
+        <a href="#" class="image fit"><img  style = "border: 10px solid #555;"   src="{{ 'assets/images/IMG_travel_Screenshot_20210330_144630_com.huawei.himovie.overseas-01.jpeg' | relative_url }}" 
         alt="Hot Topics in Machine Learning" /></a>
         <header>
           <h3>Paragliding</h3>
@@ -107,7 +108,7 @@ permalink: interests
     </div>
     <div class="3u 12u$(mobile)" style="margin-top: 65px;">
       <div class="item" >
-        <a href="#" class="image fit"><img src="{{ 'assets/images/IMG_travel_20210402090542_IMG_2097-01.jpeg' | relative_url }}" alt="Project 11" /></a>
+        <a href="#" class="image fit"><img   style = "border: 10px solid #555;"  src="{{ 'assets/images/IMG_travel_20210402090542_IMG_2097-01.jpeg' | relative_url }}" alt="Project 11" /></a>
         <header>
           <h3>At the peak!</h3>
         </header>
@@ -115,7 +116,7 @@ permalink: interests
     </div>
     <div class="3u 12u$(mobile)" style="margin-top: 65px;">
       <div class="item" >
-        <a href="#" class="image fit"><img src="{{ 'assets/images/IMG_travel_IMG_20210401_091933-01.jpeg' | relative_url }}" alt="Project 11" /></a>
+        <a href="#" class="image fit"><img   style = "border: 10px solid #555;"  src="{{ 'assets/images/IMG_travel_IMG_20210401_091933-01.jpeg' | relative_url }}" alt="Project 11" /></a>
         <header>
           <h3>Hiking @ Manali</h3>
         </header>
